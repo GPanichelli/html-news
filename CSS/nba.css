@@ -7,14 +7,12 @@
 
 #title  {
     font-size: 16px;
-    
+    line-height: 36px;
 }
 .time   {
     margin-bottom: 24px;
     margin-top: 16px;
-    border-bottom-style: solid;
-    border-bottom-color: rgb(219, 219, 219);
-    border-bottom-width: 0.8px;
+    border-bottom: 0.8px solid rgb(219, 219, 219);
     padding-bottom: 16px;
     color: rgb(18, 18, 18);
     font-size: 13px;
@@ -26,9 +24,7 @@
 .time span  {
     margin-right: 8px;
     padding-right: 8px;
-    border-right-style: solid;
-    border-right-width: 0.8px;
-    border-right-color: rgb(219, 219, 219);
+    border-right: 0.8px solid  rgb(219, 219, 219);
 }
 .time a {
     color: rgb(0, 109, 54);
@@ -36,6 +32,24 @@
 }
 a:hover {
     text-decoration: underline;
+}
+figure  {
+    margin: auto;
+    display: table;
+    
+}
+img.bigsize {
+    width: 826.65px;
+    height: 464.983px;
+}
+figcaption.description  {
+    background-color: rgb(237, 237, 237);
+    color: rgb(90, 90, 90);
+    font-size: 13px;
+    padding: 12px 16px 12px 16px;
+    
+    
+    
 }
 
 
