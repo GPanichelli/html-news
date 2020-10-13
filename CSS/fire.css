@@ -1,0 +1,94 @@
+header  {
+    position: absolute;
+    background-color: #102039;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 450px; 
+    z-index: -1;
+}
+
+#title  {
+    color: #ffffff;
+    font-family: FoundersGroteskCond, Arial Narrow, Arial, sans-serif;
+    font-size: 60px;
+    font-weight: 300;
+    line-height: 60px;
+    margin-left: 360px;
+    width: 960px;
+
+}
+
+#subtitle   {
+    font-family: PublicoHeadline, Georgia, Times New Roman, Times, Baskerville;
+    font-size: 24px;
+    color: #ffffff;
+    line-height: 36px;
+    margin-left: 360px;
+    width: 960px;
+}
+
+article {
+    position: absolute;
+    margin-left: 360px;
+    margin-top: 300px;
+    width: 960px;
+
+}
+
+figure  {
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+.description    {
+    font-family: PublicoText, Georgia, Publico Text, Times New Roman, Times, Baskerville;
+    font-size: 14px;
+    font-weight: 400;
+    margin-top: 16px;
+}
+article p,div   {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 560px;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+}
+
+a   {
+    color: #3061FF;
+    text-decoration: none;
+    
+}
+
+a:hover {  
+    opacity: .7; 
+}
+
+div.date    {
+    font-family: FoundersGroteskMono, Courier, Courier New, monospace;
+    font-size: 12px;
+    letter-spacing: -0.48px;
+    line-height: 18px;
+    margin-bottom: 0px;
+
+}
+
+div.author  {
+    font-family: FoundersGroteskCond, Arial Narrow, Arial, sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 20px;
+    margin-top: 0px;
+
+}
+
+span    {
+    font-family: FoundersGroteskMono, Courier, Courier New, monospace;
+    font-size: 12px;
+    letter-spacing: -0.48px;
+    line-height: 18px;
+    word-spacing: -1.2px;
+    padding-left: 12px;
+}
