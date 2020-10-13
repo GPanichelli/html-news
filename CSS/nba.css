@@ -96,3 +96,6 @@ ul a    {
 ul a:hover  {
     color: #255AA9;
 }
+footer  {
+    padding-bottom: 20px;
+}

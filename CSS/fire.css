@@ -92,3 +92,11 @@ span    {
     word-spacing: -1.2px;
     padding-left: 12px;
 }
+
+footer  {
+    position: absolute;
+    margin-left: 360px;
+    margin-top: 2800px;
+    padding-bottom: 50px;
+    width: 960px;
+}
